@@ -1,6 +1,6 @@
 从零开始设计一个CPU 
 ====
-版本 V0.99 （仿真代码和打包工程文件尚未上传）
+版本 V1.0 
 
 资源
 -------
@@ -8,6 +8,14 @@ B站 视频地址：https://www.bilibili.com/video/BV1S7411f7sZ/
 
 作业说明（包括指令设计和模块结构）：
 https://github.com/luyufan498/CPU_start_from_0/blob/master/Assignment_CPU.pdf
+
+
+源码（未打包）：
+https://github.com/luyufan498/CPU_start_from_0/tree/master/SourceCode
+
+打包工程（vivado打开即用）：
+https://github.com/luyufan498/CPU_start_from_0/tree/master/Projects
+
 
 参考讲义：
 https://github.com/luyufan498/CPU_start_from_0/blob/master/Microprocessor%20Design.pdf
@@ -95,4 +103,7 @@ https://github.com/luyufan498/CPU_start_from_0/blob/master/General%20Purpose%20M
 0000011001 //14// R2 = R1
 
 0001000010 //15// GO ADDR 02 
+
+
+
  
